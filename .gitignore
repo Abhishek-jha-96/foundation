@@ -4,3 +4,9 @@ dist
 .next
 .env
 .nx
+
+
+.nx/cache
+.nx/workspace-data
+
+github_2.txt
